@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+	<qresource>
+		<file alias="logo">resources/imperial_logo.png</file>
+    <file alias="icon">resources/icon.ico</file>
+	</qresource>
+</RCC>
