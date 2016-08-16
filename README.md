@@ -49,7 +49,7 @@ To build the software, you'll need
  - Qt 5.4 or later (used for image processing/GUI),
  - CMAKE to build the makefile/visual studio project, and 
  - NSIS if you want to build the windows installer package. 
- - Visual Studio 2010 which is the only version the logitech library supports
+ - Visual Studio 2015 which is the only version the logitech library supports
 As of writing this, the project is only really set up for windows, as I'm pretty
 sure the logitech libraries only support windows. If that's not the case, the clock code itself should
 be a trivial port since cmake/qt are natively cross-platform.

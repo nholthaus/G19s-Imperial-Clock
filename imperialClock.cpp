@@ -164,6 +164,7 @@ void imperialClock::drawClock()
 	if (!twentyFourHourTimeCheckBox->isChecked())
 	{
 		hour = hour % 12;
+		if (hour == 0) hour = 12;
 	}
 	int minute = now.time().minute();
 	int second = now.time().second();
