@@ -1,4 +1,4 @@
-G19s-Imperial-Clock
+<img src="https://github.com/nholthaus/G19s-Imperial-Clock/blob/master/resources/icon.png" width="38">G19s-Imperial-Clock
 ===================
 
 Star Wars themed Imperial Logo Clock Applet for the Logitech G19s Keyboard
