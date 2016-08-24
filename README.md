@@ -5,6 +5,8 @@ Star Wars themed Imperial Logo Clock Applet for the Logitech G19s Keyboard
 
 ![image](resources/imperial-clock.png)
 
+[![DOWNLOAD](https://img.shields.io/badge/Download-v1.0.1-green.svg)](https://github.com/nholthaus/G19s-Imperial-Clock/releases/download/v1.0.1/G19s-Imperial-Clock-Installer.exe)
+
 LICENSE
 -------
 The MIT License (MIT)
